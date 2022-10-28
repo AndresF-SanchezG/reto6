@@ -1,0 +1,19 @@
+body {
+    background: var(--Very-light-gray-background-headings-buttons);
+}
+
+.main-container {
+    display: flex;
+    width: 920px;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.luxury-style {
+    border-radius: 0px 10px 10px 0px; 
+}
+
+.car-detail p {
+    margin-bottom: 90px;
+}
