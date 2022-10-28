@@ -1,2 +1,2 @@
-# reto7
-column preview card component
+# reto7 - column preview card component
+t
